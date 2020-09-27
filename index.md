@@ -51,9 +51,7 @@ Title of my thesis paper is  "Research on Electrical Breakdown Property of Polyp
 
 Entire research of thesis includes sample fabrication, characterization and testing as well as modeling and analysis, shown as the graph below.
 
-![Research schem](https://i.loli.net/2020/05/05/oZLPCDlVdXj6Ka7.jpg)
-
-
+![image-20200928011038806](https://i.loli.net/2020/09/28/CHW5b8eoxFrUcNS.png)
 
 ### Summary of results
 
