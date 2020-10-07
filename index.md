@@ -64,7 +64,7 @@ By comparing previous analysis and simulation results with the CTMD model, mecha
 <img src="https://i.loli.net/2020/05/06/N1zw7r5CO68IeAs.png" alt="PPT里用的结论框图" style="zoom: 35%;" />
 
 <center> Fig. Mechanism of electrical breakdown process of PP nanocomposite
-## Scholarship and Awards 
+
 
 ## Scholarship ## 
 
@@ -91,7 +91,7 @@ By comparing previous analysis and simulation results with the CTMD model, mecha
 
 ## Publications 
 
- <img src="D:\temporary\出国申请2019\EE简历\ChenyuYan.github.io\img\ResearchGate.jpg" alt="ResearchGate" style="zoom:8%;" />[My Research Gate](https://www.researchgate.net/profile/Chenyu_Yan4) 
+ <img src="https://i.loli.net/2020/10/07/y9xbRlgMwEnAY6T.png" alt="ResearchGate" style="zoom:8%;" />[My Research Gate](https://www.researchgate.net/profile/Chenyu_Yan4) 
 
 1. Min DM, **Yan CY**, Huang Y, et.al. Dielectric and carrier transport properties of silicone rubber degraded by gamma irradiation[J]. Polymers, 2016, 9(10): 1-15 (SCI: 000414913800071; EI: 20174304306504)
 2. Min DM, **Yan CY**, Mi R, et.al. Carrier Transport and Molecular Displacement Modulated dc Electrical Breakdown of Polypropylene Nanocomposites[J]. Polymers, 2018, 10(11): 1-20 (SCI: 000454456800029; EI: 20184606058526) 
