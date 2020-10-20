@@ -1,8 +1,10 @@
 # Chenyu Yan
 
-MS, Xi'an Jiaotong University, PRC
+MS, Electrical Engineering, Xi'an Jiaotong University, PRC
 
-<img src="img/mail.png" height="25" width="30;" /> <leo-chenyu.yan@stu.xjtu.edu.cn> 
+MS, Computer Science, Georgia Institute of Technology, USA
+
+<img src="img/mail.png" height="25" width="30;" /> <leo-cheyu@foxmail.com>
 
 ## Education Background
 
