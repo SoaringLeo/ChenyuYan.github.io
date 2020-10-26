@@ -8,9 +8,9 @@ MS, Computer Science, Georgia Institute of Technology, USA
 
 ## Education Background
 
-I received BS degree with Electrical Engineering and Automation (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and the topic of thesis is "Design of large scale Lithium-ion battery stack management system based on ARM". I received MS degree with Electrical Engineering (GPA: 3.7, 5%) from [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC, in June 2019 and the topic of thesis is "Research on Electrical Breakdown Property of Polypropylene Nanocomposite Dielectric Modulated by Charge Transport and Molecular Displacement". At present, I'm enrolled in Master of Science in Computer Science Degree provided by [Georgia Institute of Technology (Gatech, USA)](https://www.cc.gatech.edu/).
+I received BS degree with Electrical Engineering and Automation (GPA: 3.7, 5%) and  MS degree with Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively. At present, I'm enrolled in Master of Science in Computer Science Degree provided by [Georgia Institute of Technology (Gatech, USA)](https://www.cc.gatech.edu/).
 
-During postgraduate's study,  I was in Prof. [Shengtao Li](https://www.researchgate.net/profile/Shengtao_Li5)'s group and my  research focused on **electrical devices, nano material, charge transport  computational calculation and machine learning**. In past 3 years, I have a relatively good understanding of material research, solid physics and computational skills.  Under my prof. [Daomin Min](https://www.researchgate.net/profile/Daomin_Min)'s guidance, I gradually formulated ability to deal with scholar research and got a deeper insight towards my study. **During this period, I was involved in 3 national projects and had 16 papers published**.
+ I was in Prof. [Shengtao Li](https://www.researchgate.net/profile/Shengtao_Li5)'s group and my  research focused on **electronic devices, nano material, charge transport  computational calculation and machine learning**. In past 3 years, I have a relatively good understanding of material research, solid physics and computational skills.  Under my prof. [Daomin Min](https://www.researchgate.net/profile/Daomin_Min)'s guidance, I gradually formulated ability to deal with scholar research and got a deeper insight towards my study. **During this period, I was involved in 3 national projects and had 16 papers published**.
 
 ## Publications 
 
@@ -111,10 +111,6 @@ By comparing previous analysis and simulation results with the CTMD model, mecha
 <img src="https://i.loli.net/2020/05/06/N1zw7r5CO68IeAs.png" alt="PPT里用的结论框图" style="zoom: 35%;" />
 
 <center> Fig. Mechanism of electrical breakdown process of PP nanocomposite
-
-
-11. 
-
 ## Project Experience ##
 
 - **Influence of molecular chain motion property in interfacial regions on dc breakdown property of polyethylene nanocomposites (National Natural Science Foundation of China) ** 
