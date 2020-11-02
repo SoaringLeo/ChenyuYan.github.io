@@ -90,28 +90,9 @@ For your information, more my published papers can be found in:
 - [Accumulation of space charges in epoxy resin nanodielectrics influenced by Poole-Frenkel effect](https://sci-hub.si/https://ieeexplore.ieee.org/abstract/document/8727336/)
 - [Dielectric properties of aged and pristine oil-paper under harmonic voltage by frequency domain spectroscopy](https://sci-hub.si/https://ieeexplore.ieee.org/abstract/document/8280219/)
 
-## Thesis paper
 
-Title of my thesis paper is  "Research on Electrical Breakdown Property of Polypropylene Nanocomposite Dielectric Modulated by Charge Transport and Molecular Displacement". By combining the experimental results and modeling calculation results, the thesis proposes an explanation for demonstrating the mechanism of electrical breakdown property of PP/Al~2~O~3~ nanocomposite. 
-
-### Overview on structure
-
-Entire research of thesis includes sample fabrication, characterization and testing as well as modeling and analysis, shown as the graph below.
-
-![image-20200928011038806](https://i.loli.net/2020/09/28/CHW5b8eoxFrUcNS.png)
-
-### Summary of results
-
-It is worth mentioning that, based on the summary of current  synthetise method of nanocomposite, the thesis employed a new fabrication method to prepare samples, which turns out that fillers homogeneously  dispersed and both stability and dielectric property were enhanced compared with former results that employed original method.  
-
-The thesis correlates the characterization and testing results, namely morphology, thermal, crystallization property and polarization, trap distribution, electrical strength, conductivity property. After analyzing the correlations among different property of samples, it was concluded that trap distribution has a main effect on electrical breakdown property of PP/Al~2~O~3~ nanocomposite. 
-
-By comparing previous analysis and simulation results with the CTMD model, mechanism of PP/Al~2~O~3~ nanocomposite has been revealed. It turns that nanofiller introduced interfacial regions to the neat material. Therefore, trap distribution in the bulk of material is altered, leading to the changes in distribution of space charge and electrical field distribution. Also, due to the occupation effect of charges in the traps, molecular motion may be impeded , leading to an increase in energy gained by electrons and spur of local current. Such a coordination process results the electrical breakdown property of nanocomposites. Results of thesis well explained the reasons for electrical breakdown property enhancement, which is significant for further study on modulating electrical strength even other electrical properties of nanocomposites.
-
-<img src="https://i.loli.net/2020/05/06/N1zw7r5CO68IeAs.png" alt="PPT里用的结论框图" style="zoom: 35%;" />
-
-<center> Fig. Mechanism of electrical breakdown process of PP nanocomposite
 ## Project Experience ##
+
 
 - **Influence of molecular chain motion property in interfacial regions on dc breakdown property of polyethylene nanocomposites (National Natural Science Foundation of China) ** 
 
@@ -131,7 +112,7 @@ This project was originated from the need that power equipment like cable and bu
 
 ## Work Experience and Internship ## 
 
-**State Grid Corporation of China   Department of Information and Internet	2019.09 - Now** 
+**State Grid Corporation of China   Department of Information and Internet	2019.09 - 2020.06** 
 
 <center><img src="img/SGCC.jpg" height="150" width="240;" div align = "center"/></center>
 
