@@ -8,7 +8,7 @@ MS, Computer Science, Georgia Institute of Technology, USA
 
 ## Education Background
 
-I received BS degree with Electrical Engineering and Automation (GPA: 3.7, 5%) and  MS degree with Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively. At present, I'm enrolled in online Master of Science in Computer Science Degree provided by [Georgia Institute of Technology (Gatech, USA)](https://www.cc.gatech.edu/) and expected to get degree in 2021.
+I received BS degree with Electrical Engineering and Automation (GPA: 3.7, 5%) and  MS degree with Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively. 
 
 My research focuses on **high  voltage equipment, electronic devices, nano material, charge transport  computational calculation and machine learning**. In past 3 years, I have a relatively good understanding of material research, solid physics and computational skills and I gradually formulated ability to deal with scholar research and got a deeper insight towards my study. **Not only keeping outstanding performance on course study, I have obtained international/national awards for 8 times and got scholarship for 10 times. In addition, I was involved in 4 national projects and had 16 papers published**.
 
