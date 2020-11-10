@@ -8,7 +8,7 @@ MS, Computer Science, Georgia Institute of Technology, USA
 
 ## Education Background
 
-I received BS degree with Electrical Engineering and Automation (GPA: 3.7, 5%) and  MS degree with Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively. At present, I'm enrolled in Master of Science in Computer Science Degree provided by [Georgia Institute of Technology (Gatech, USA)](https://www.cc.gatech.edu/).
+I received BS degree with Electrical Engineering and Automation (GPA: 3.7, 5%) and  MS degree with Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively. At present, I'm enrolled in online Master of Science in Computer Science Degree provided by [Georgia Institute of Technology (Gatech, USA)](https://www.cc.gatech.edu/) and expected to get degree in 2021.
 
 My research focuses on **high  voltage equipment, electronic devices, nano material, charge transport  computational calculation and machine learning**. In past 3 years, I have a relatively good understanding of material research, solid physics and computational skills and I gradually formulated ability to deal with scholar research and got a deeper insight towards my study. **Not only keeping outstanding performance on course study, I have obtained international/national awards for 8 times and got scholarship for 10 times. In addition, I was involved in 4 national projects and had 16 papers published**.
 
@@ -16,23 +16,23 @@ My research focuses on **high  voltage equipment, electronic devices, nano mater
 
  <img src="https://i.loli.net/2020/10/07/y9xbRlgMwEnAY6T.png" alt="ResearchGate" style="zoom:8%;" />[My Research Gate](https://www.researchgate.net/profile/Chenyu_Yan4) 
 
-1. Min DM, **Yan CY**, Huang Y, et.al. Dielectric and carrier transport properties of silicone rubber degraded by gamma irradiation[J]. Polymers, 2016, 9(10): 1-15 (SCI: 000414913800071; EI: 20174304306504)
-2. Min DM, **Yan CY**, Mi R, et.al. Carrier Transport and Molecular Displacement Modulated dc Electrical Breakdown of Polypropylene Nanocomposites[J]. Polymers, 2018, 10(11): 1-20 (SCI: 000454456800029; EI: 20184606058526) 
-3. Min DM, Li YW, **Yan CY**, et.al. Thickness Dependent dc Electrical Breakdown of Polyimide Modulated by Charge Transport and Molecular Displacement[J], 2018, Polymers, 10(9): 1-18 (SCI: 000449988800081; EI: 20183805840118)
-4. Min DM, **Yan CY**, Wang WW, et al. Electrical breakdown of polymer nanocomposites modulated by space charges[C]. IEEE 17th International Conference on Nanotechnology, 2017: 267-269 (EI: 20180604700270)
-5. Xie DR, **Yan CY**, Huang Y, et al. Study on short-term dc breakdown and corona resistance mechanism of polyimide. Proceedings of 2017 International Symposium on Electrical Insulating Materials, 2017: 437-441 (EI: 20180704798615) 
-6. Kang WB, **Yan CY**, Li ST, et al. Trap and carrier transport of pristine and aged silicone rubber by surface potential measurements[C]. Proceedings of 2017 International Symposium on Electrical Insulating Materials, 2017: 207-210 (EI: 20180704798674)
-7. Li SJ, Yan W, **Yan CY**, et al. Surface trap and carrier transport of aged and pristine oil-paper under harmonic voltage by surface potential decay[C]. IEEE Conference on Electrical Insulation and Dielectric Phenomenon, 2017: 94-97 (EI: 20181505007629)
-8. Cheng L, Chi XH, **Yan CY**, et al. Polypropylene nanocomposite for power equipment: a review[J]. IET Nanodielectrics, 2018, 1(2): 92-103
-9. Min DM, **Yan CY**, Huang Y, et.al. Influence of filler content on conductivity of epoxy resin nanocomposites[C]. The 20th International Symposium on High Voltage Engineering, 2017: 1-6
-10. Min DM, **Yan CY**, Mi R, et al. Space-charge modulated electrical breakdown in polyethylene nanodielelctrics[J]. IEEE Nanotechnology Magazine, 12(2): 15-22.
-11. Mi R, **Yan CY**, Wu QZ, Min DM, Li ST. Effect of deep traps and molecular motion on dc breakdown of polyethylene nanocomposites[C]. IEEE Conference on Electrical Insulation and Dielectric Phenomenon 2019
-12. Li YW, **Yan CY**, Min DM, Li ST. Numerical simulation on dc breakdown of polyimide based on charge transport and molecular chain displacement[C]. IEEE Conference on Electrical Insulation and Dielectric Phenomenon 2019
-13. Kang WB, Meng SX, Cui HZ, Li YW, Mi R, **Yan CY**, Min DM, Li ST. Space charge accumulation in silicone rubber influenced by Poole-Frenkel effect[C]. International Conference on novel functional materials, 2018: 1-5 (EI: 20185306321507)
-14. Cui HZ, Xing ZL, Wu QZ, **Yan CY**, Mi R, Min DM, and Li ST. Accumulation of space charges in epoxy resin nanodielectrics influenced by Poole-Frenkel effect, International Conference on novel functional materials 2019
-15. Kang WB, Meng SX, Cui HZ, **Yan CY**, Min DM, Li ST. Trap and dielectric property evolution of silicone rubber insulation under power frequency voltage superimposed harmonic [J]. High voltage (Chinese)
+1. Min DM, Yan CY, Huang Y, et.al. Dielectric and carrier transport properties of silicone rubber degraded by gamma irradiation[J]. Polymers, 2016, 9(10): 1-15
+2. Min DM, Yan CY, Mi R, et.al. Carrier Transport and Molecular Displacement Modulated dc Electrical Breakdown of Polypropylene Nanocomposites[J]. Polymers, 2018, 10(11): 1-20
+3. Min DM, Li YW, Yan CY, et.al. Thickness Dependent dc Electrical Breakdown of Polyimide Modulated by Charge Transport and Molecular Displacement[J], 2018, Polymers, 10(9): 1-18
+4. Min DM, Yan CY, Wang WW, et al. Electrical breakdown of polymer nanocomposites modulated by space charges[C]. IEEE 17th International Conference on Nanotechnology, 2017: 267-269
+5. Xie DR, Yan CY, Huang Y, et al. Study on short-term dc breakdown and corona resistance mechanism of polyimide. Proceedings of 2017 International Symposium on Electrical Insulating Materials, 2017: 437-441 
+6. Kang WB, Yan CY, Li ST, et al. Trap and carrier transport of pristine and aged silicone rubber by surface potential measurements[C]. Proceedings of 2017 International Symposium on Electrical Insulating Materials, 2017: 207-210
+7. Li SJ, Yan W, Yan CY, et al. Surface trap and carrier transport of aged and pristine oil-paper under harmonic voltage by surface potential decay[C]. IEEE Conference on Electrical Insulation and Dielectric Phenomenon, 2017: 94-97 
+8. Cheng L, Chi XH, Yan CY, et al. Polypropylene nanocomposite for power equipment: a review[J]. IET Nanodielectrics, 2018, 1(2): 92-103
+9. Min DM, Yan CY, Huang Y, et.al. Influence of filler content on conductivity of epoxy resin nanocomposites[C]. The 20th International Symposium on High Voltage Engineering, 2017: 1-6
+10. Min DM, Yan CY, Mi R, et al. Space-charge modulated electrical breakdown in polyethylene nanodielelctrics[J]. IEEE Nanotechnology Magazine, 12(2): 15-22.
+11. Mi R, Yan CY, Wu QZ, Min DM, Li ST. Effect of deep traps and molecular motion on dc breakdown of polyethylene nanocomposites[C]. IEEE Conference on Electrical Insulation and Dielectric Phenomenon 2019
+12. Li YW, Yan CY, Min DM, Li ST. Numerical simulation on dc breakdown of polyimide based on charge transport and molecular chain displacement[C]. IEEE Conference on Electrical Insulation and Dielectric Phenomenon 2019
+13. Kang WB, Meng SX, Cui HZ, Li YW, Mi R, Yan CY, Min DM, Li ST. Space charge accumulation in silicone rubber influenced by Poole-Frenkel effect[C]. International Conference on novel functional materials, 2018: 1-5
+14. Cui HZ, Xing ZL, Wu QZ, Yan CY, Mi R, Min DM, and Li ST. Accumulation of space charges in epoxy resin nanodielectrics influenced by Poole-Frenkel effect, International Conference on novel functional materials 2019
+15. Kang WB, Meng SX, Cui HZ, Yan CY, Min DM, Li ST. Trap and dielectric property evolution of silicone rubber insulation under power frequency voltage superimposed harmonic [J]. High voltage
 
-- **Min DM is my professor during graduated study and gave lots of assistance to my research, in all these work, I was responsible for experiment design, operation, analysis and paper writing.**
+- Min DM is my professor during graduated study and gave lots of assistance to my research, in all these work, I was responsible for experiment design, operation, analysis and paper writing.
 
 ## Scholarship ## 
 
