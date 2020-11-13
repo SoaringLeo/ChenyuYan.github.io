@@ -94,6 +94,7 @@ We built a central platform, collaborating with Alibaba, to collect all data fro
 <center><img src="img/NSFC.jpg" height="160" width="190;" div align = "center"/><center>
 This project originated from the need for enhancing the breakdown property of polyethylene to meet up with its demand for high voltage power transmission. This study investigated molecular motion property in the interfacial regions and its impact on dc breakdown property of polyethylene nanocomposites. Also, it further explained the microscopic process of electrical breakdown. I'm responsible for experiment progress and paper writing (academic paper and project report).
 
+
 - **Insulating property and its regularity of dielectrics in current transfer and energy dissipation (National Key Basic Research Program (973) sub-project)** 
 
 <center>  <img src="img/973.jpg" height="130" width="180;" div align = "center"/>  </center>
