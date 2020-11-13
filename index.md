@@ -2,8 +2,6 @@
 
 MS, Electrical Engineering, Xi'an Jiaotong University, PRC
 
-MS, Computer Science, Georgia Institute of Technology, USA
-
 <img src="img/mail.png" height="25" width="30;" /> <leo-cheyu@foxmail.com>
 
 ## Education Background
