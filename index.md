@@ -38,7 +38,7 @@ My research focused on **electronics, power transmission, dielectric material, c
 
  <img src="https://i.loli.net/2020/10/07/y9xbRlgMwEnAY6T.png" alt="ResearchGate" style="zoom:8%;" />[My Research Gate](https://www.researchgate.net/profile/Chenyu_Yan4) 
 
-<img src="https://i.loli.net/2020/11/11/Vsqmo8jTptWwDMS.png" alt="image-20201111225140666" style="zoom:20%;" />[Google Scholar](https://scholar.google.com/schhp?hl=en)
+<img src="https://i.loli.net/2020/11/11/Vsqmo8jTptWwDMS.png" alt="image-20201111225140666" style="zoom:20%;" />[Google Scholar](https://scholar.google.com/citations?user=281EWzQAAAAJ&hl=en&oi=ao)
 
 1. Min DM, Yan CY, Huang Y, et.al. Dielectric and carrier transport properties of silicone rubber degraded by gamma irradiation[J]. Polymers, 2016, 9(10): 1-15
 2. Min DM, Yan CY, Mi R, et.al. Carrier Transport and Molecular Displacement Modulated dc Electrical Breakdown of Polypropylene Nanocomposites[J]. Polymers, 2018, 10(11): 1-20
