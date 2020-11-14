@@ -55,7 +55,9 @@ My research focused on **electronics, power transmission, dielectric material, c
 13. Kang WB, Meng SX, Cui HZ, Li YW, Mi R, Yan CY, Min DM, Li ST. Space charge accumulation in silicone rubber influenced by Poole-Frenkel effect[C]. International Conference on novel functional materials, 2018: 1-5
 14. Cui HZ, Xing ZL, Wu QZ, Yan CY, Mi R, Min DM, and Li ST. Accumulation of space charges in epoxy resin nanodielectrics influenced by Poole-Frenkel effect, International Conference on novel functional materials 2019
 15. Kang WB, Meng SX, Cui HZ, Yan CY, Min DM, Li ST. Trap and dielectric property evolution of silicone rubber insulation under power frequency voltage superimposed harmonic [J]. High voltage
+16. Li QR, Min DM, Y CY, W WW, et. al. DC Electrical Breakdown of Low-density Polyethylene Nanodielectrics Modulated by Charge Transport and Molecular Displacement, IEEE International Conference on High Voltage Engineering and Application 2020
 
+- Charge transport model can well demonstrate internal charge property and explain modeling & experimental results from a new perspective, more details can be found on my homepage.
 - Min DM is my professor during graduated study and gave lots of assistance to my research, in all these work, I was responsible for experiment design, operation, analysis and paper writing.
 
 ##  Highlights of research
