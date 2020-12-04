@@ -6,16 +6,16 @@ MS, Electrical Engineering, Xi'an Jiaotong University, PRC
 
 ## Education Background
 
-I received a bachelor degree in Electrical Engineering and Automation (GPA: 3.7, 5%) and a master degree in Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively. At present, I have been enrolled in a Master of Science in Computer Science Degree provided by [Georgia Institute of Technology (Gatech, USA)](https://www.cc.gatech.edu/) to provide more preparation and research tools for the following study and expected to get a degree in 2021.
+I received a bachelor degree in Electrical Engineering and Automation (GPA: 3.7, 5%) and a master degree in Electrical Engineering (GPA: 3.7, 5%) from [Northwestern Polytechnical University(NPU)](http://zdhxy.nwpu.edu.cn/English/English/Home.htm), People Republic of China(PRC), in June 2016 and [Xi'an Jiaotong University(XJTU)](http://ee.xjtu.edu.cn/English_Version1/home.htm), PRC in June 2019, respectively.
 
-My research focused on **electronics, power transmission, dielectric material, charge transport computational calculation, and machine learning**. I have a relatively good understanding of material research, reliable physics, and computational skills in the past three years. I gradually formulated the ability to deal with scholarly research and got a more profound insight into my study. Not only keeping outstanding performance on course study, **but I have also obtained international/national awards ten times and got the scholarship for over ten times**. Also, **I was involved in 4 national projects and had 16 papers published**.
+My research focused on electrochemistry, power transmission, dielectric material, functional/nano material, electron/energy transport computational modeling, and machine learning**. I have a relatively good understanding of material research, reliable physics, and computational skills in the past three years. I gradually formulated the ability to deal with scholarly research and got a more profound insight into my study. Not only keeping outstanding performance on course study, **but I have also obtained international/national awards ten times and got the scholarship for over ten times**. Also, **I was involved in 4 national projects and had 16 papers published**.
 
 ## Scholarship ## 
 
 1. National Scholarship	2018.11 & 2017.11
 2. National Special Scholarship   2018.11
-3. First class scholarship    2018.11 & 2017.11
-4. Scholarship for excellent freshman    2016.09
+3. First-class scholarship    2018.11 & 2017.11
+4. Scholarship for outstanding freshman    2016.09
 5. Provincial special scholarship    2015.09
 6. First class scholarship    2015.09 & 2014.09 & 2013.09
 7. E+H special scholarship    2014.09
@@ -25,14 +25,14 @@ My research focused on **electronics, power transmission, dielectric material, c
 1. Outstanding graduated student    2019.06
 2. Merit master student award    2018.11 & 2017.11
 3. National Mathematical Contest in Modeling for Graduated students, Honorable mention    2017.11
-4. Outstanding graduated student    2016.06
+4. Outstanding undergraduate student    2016.06
 5. The 5th session of MathorCup Mathematical Contest in Modeling, Outstanding award    2015.06
 6. College Students' Innovative Entrepreneurial Training Plan Program, three projects in 2015 and 2014
 7. International Mathematical Contest in Modeling (MCM), Honorable mention    2015.03
 8. National Mathematical Contest in Modeling, Outstanding award    2014.11
 9. Best debater of undergraduate student debate contest in China   2014.10
 10. Excellent world teenager in Japan, Korea and China forum    2014.09
-11. Outstanding undergraduate student award    2015.11 & 2014.11 & 2013.11
+11. Excellent undergraduate student award    2015.11 & 2014.11 & 2013.11
 
 ## Publications 
 
@@ -94,6 +94,7 @@ We built a central platform, collaborating with Alibaba, to collect all data fro
 - **Influence of molecular chain motion property in interfacial regions on dc breakdown property of polyethylene nanocomposites (National Natural Science Foundation of China) ** 
 
 <center><img src="img/NSFC.jpg" height="160" width="190;" div align = "center"/><center>
+
 This project originated from the need for enhancing the breakdown property of polyethylene to meet up with its demand for high voltage power transmission. This study investigated molecular motion property in the interfacial regions and its impact on dc breakdown property of polyethylene nanocomposites. Also, it further explained the microscopic process of electrical breakdown. I'm responsible for experiment progress and paper writing (academic paper and project report).
 
 
@@ -113,7 +114,7 @@ This project originated from the need for power equipment like cable and bush to
 
 <center><img src="img/SGCC.jpg" height="150" width="240;" div align = "center"/></center>
 
-I worked in the State Grid Corporation of China (SGCC), the largest national corporation, for one year. In this period, I worked as a member of the Department of Information and Internet, which focuses on data collection and processing to propose practical suggestions for the corporation's development. I have participated in a project to predict the short-term load of grid power, including day load forecast and workload forecast. In actual commercial marketing, suppressing illegal electric stealing, especially in corporations with relatively higher demand for electric resources, is essential for the profits of power corporations. In this project, I was responsible for forecast modeling and data processing, which provided the basis of prediction. Specifically, with the previous electric usage data as the input, the model was based on RNN and LSTM model to forecast the electric demand for the following days. By comparing with realistic values, it was proved that the model had relatively high precision, and the amount of MAPE was around 2.4%. Corresponding results and data have been collected to apply for a national project in SGCC.
+After graduation, I worked in the State Grid Corporation of China (SGCC), the largest national corporation, for one year. In this period, I was a data scientist in the Department of Information and Internet, which focuses on data collection and processing to propose practical suggestions for the corporation's development. I have participated in a project to predict the short-term load of grid power, including day load forecast and workload forecast. In actual commercial marketing, suppressing illegal electric stealing, especially in corporations with relatively higher demand for electric resources, is essential for the profits of power corporations. In this project, I was responsible for forecast modeling and data processing, which provided the basis of prediction. Specifically, with the previous electric usage data as the input, the model was based on RNN and LSTM model to forecast the electric demand for the following days. By comparing with realistic values, it was proved that the model had relatively high precision, and the amount of MAPE was around 2.4%. Corresponding results and data have been collected to apply for a national project in SGCC.
 
 We built a central platform, collaborating with Alibaba, to collect all data from power grid system to help making decision regarding equipment maintenance, power distribution and redistribution, dispatching and monitoring. For example, a serious problem of vehicle charging is occupation of space, which means some customers complete charging with vehicles immobile, aggravating the limited usage originated from insufficient charging piles. In this regard, we optimize the power supply of electricity power and get customer notified when the charging finished to make full use of charging piles and guarantee most customers can utilize devices. Another scenario is the maintenance of power equipment. By monitoring the dynamic change of transformer oil temperature, dielectric loss, capacity of capacitors, and other indexes, engineers can keep a systematic observation of power equipment. Meanwhile, they can forecast equipment performance in the long run and arrange a routine maintenance plan, increasing efficiency and effectiveness of electrical tests and repairing.
 
@@ -139,7 +140,7 @@ I was an internship in the technology department in ABB for four months. During 
 
 ## Personal Statement
 
-I have excellent mathematical modeling and programming bases for developing scholarly research. I have ever participated in the Mathematical Contest in Modeling and obtained international/national awards seven times. Such an experience gave me a basic understanding of modeling. When facing the following modeling and calculation work, like charge transport modeling and lifespan prediction, I can better handle it and try to propose new methods to solve problems. Also, I can employ Python, SPSS, MATLAB, etc., to support my research work. The charge transport model presented in my published work is compiled by MATLAB. Plus, I'm enrolling in machine learning and data science study at Gatech to have a systematic review and prepare for the following work.
+I have excellent mathematical modeling and programming bases for developing scholarly research. I have ever participated in the Mathematical Contest in Modeling and obtained international/national awards seven times. Such an experience gave me a basic understanding of modeling. When facing the following modeling and calculation work, like charge transport modeling and lifespan prediction, I can better handle it and try to propose new methods to solve problems. Also, I can employ Python, SPSS, MATLAB, etc., to support my research work. The charge transport model presented in my published work is compiled by MATLAB. Plus, I'm enrolling in machine learning and data science study  offered in Coursera to have a systematic review and prepare for the following work.
 
 I have a positive attitude towards scholarly research and an excellent ability to achieve goals, which are essential qualities for a Ph.D. candidate. I intend to do research work in the future (either industrial or academic) since I find it so interesting to solve the puzzlement and propel my research field's implementation. Such a sense of achievement is hard to get in other ways. Furthermore, I have a relatively good knowledge accumulation of my research field, including experiment design, data processing, and paper writing, which guarantees my good yields on the way of achieving a Ph.D. I can smoothly cooperate with mates and professors. In my perspective, the relationship between professor and students is not dedication and obey, but discussion and mutual inspiration. Specifically, I need to regularly discuss my research ideas with the professor and seek more novel ideas. However, I should have a lucid scheme for my work rather than relying on the professor's order. I did well in the past three years. For instance, I always make full preparation before discussing some cardinal problems with my professor to enhance our communication efficiency, and I also proposed my ideas on some vital points. After discussion, I immediately conclude results and try to modify or consummate my research methods.
 
